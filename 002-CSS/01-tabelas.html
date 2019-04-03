@@ -2,9 +2,59 @@
 <html lang="pt-br">
 <head>
     <meta charset="UTF-8">
-    <title>Title</title>
+    <title>CSS - Tabelas</title>
+    <link rel="stylesheet" href="tabela.css">
 </head>
 <body>
+<table>
+
+    <caption>Sistema Web I</caption>
+
+    <thead>
+    <tr>
+        <th>Matrícula</th>
+        <th>Nome</th>
+        <th>E-mail</th>
+        <th>Turma</th>
+        <th>Sala</th>
+    </tr>
+    </thead>
+
+    <tbody>
+    <tr>
+        <td>1</td>
+        <td>Ana</td>
+        <td>ana@web.ufop.br</td>
+        <td>11</td>
+        <td rowspan="3">H102</td>
+    </tr>
+
+    <tr>
+        <td>2</td>
+        <td>Brígida</td>
+        <td>brigida@web.ufop.br</td>
+        <td>11</td>
+    </tr>
+
+    <tr>
+        <td>3</td>
+        <td>Pedro</td>
+        <td>pedro@web.ufop.br</td>
+        <td>11</td>
+    </tr>
+
+    </tbody>
+
+    <tfoot>
+    <tr>
+        <td colspan="3">Total:</td>
+        <td colspan="2">3</td>
+    </tr>
+    </tfoot>
+
+</table>
+
+
 
 </body>
 </html>
