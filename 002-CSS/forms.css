@@ -1,0 +1,13 @@
+input{
+    width: 90%;
+    padding: 10px 0px;
+    background-color: #faf7f5;
+    border: 1px solid black;
+    border-radius: 15px;
+
+}
+
+.controle {
+    padding: 20px;
+    border: 1px solid black;
+}

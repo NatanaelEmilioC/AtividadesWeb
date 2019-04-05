@@ -1,41 +1,63 @@
 /*Definições para tabelas*/
 table {
-width: 100%
+    width: 100%
 }
 
 table, th, td {
-border: 1px solid black;
-border-collapse: collapse;
+    border: 1px solid black;
+    border-collapse: collapse;
 }
 
 th, td {
-padding: 10px;
+    padding: 10px;
 }
 
 tbody tr:hover {
-background-color: #c6c6c6;
+    background-color: #c6c6c6;
 }
 
 thead tr:hover {
-background-color: blue;
+    background-color: blue;
 }
 
 tfoot tr:hover {
-background-color: green;
+    background-color: green;
 }
 
-td:hover{
-font-size: 12pt;
-font-family: arial;
-color: white;}
+td:hover {
+    font-size: 12pt;
+    font-family: arial;
+    color: white;
+}
 
-tr:nth-child(3n+1){
-background-color: #a9a9a9;
+tr:nth-child(3n+1) {
+    background-color: #a9a9a9;
 }
 
 th {
-font-size: 14pt;
-font-family: tahoma;
-font-style: italic;
-background-color: inherit;
+    font-size: 14pt;
+    font-family: tahoma;
+    font-style: italic;
+    background-color: inherit;
+}
+
+a:link{
+    text-decoration: gold;
+
+}
+
+a:visited{
+  text-decoration: none;
+    background-color: gray;
+}
+
+a:hover{
+    color:white;
+    text-decoration: none;
+    background-color: red;
+}
+
+a:active{
+    background-color: green;
+    color: navy;
 }
