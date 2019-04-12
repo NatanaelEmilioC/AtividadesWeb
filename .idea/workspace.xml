@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="770c5f10-7a0c-40e6-af60-a461af2eb0b4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/002-CSS/04-bs-tabela.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/002-CSS/05-bs-forms.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/002-CSS/03-bs-inicial.html" beforeDir="false" afterPath="$PROJECT_DIR$/002-CSS/03-bs-inicial.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/002-CSS/05-bs-forms.html" beforeDir="false" afterPath="$PROJECT_DIR$/002-CSS/05-bs-forms.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -38,58 +36,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/002-CSS/01-tabelas.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="4104">
-              <caret line="171" selection-end-line="171" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/002-CSS/form.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="264">
-              <caret line="11" column="6" selection-start-line="11" selection-start-column="6" selection-end-line="11" selection-end-column="6" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/002-CSS/forms.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="288">
-              <caret line="12" column="1" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/002-CSS/tabela.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="432">
-              <caret line="18" column="16" selection-start-line="18" selection-start-column="16" selection-end-line="18" selection-end-column="16" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/002-CSS/bootstrap/css/bootstrap.css">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/002-CSS/03-bs-inicial.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="528">
-              <caret line="22" selection-start-line="22" selection-end-line="22" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/002-CSS/04-bs-tabela.html">
-          <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="120">
-              <caret line="5" column="62" lean-forward="true" selection-start-line="5" selection-start-column="2" selection-end-line="5" selection-end-column="62" />
+              <caret line="11" column="26" selection-start-line="11" selection-start-column="26" selection-end-line="11" selection-end-column="26" />
             </state>
           </provider>
         </entry>
@@ -97,8 +45,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/002-CSS/05-bs-forms.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="414">
-              <caret line="23" column="54" selection-start-line="23" selection-start-column="54" selection-end-line="23" selection-end-column="54" />
+            <state relative-caret-position="366">
+              <caret line="53" column="55" selection-start-line="53" selection-start-column="55" selection-end-line="53" selection-end-column="55" />
             </state>
           </provider>
         </entry>
@@ -134,13 +82,13 @@
         <option value="$PROJECT_DIR$/Atividades/relatorio.html" />
         <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/001 - Atividades/01-introducao.html" />
-        <option value="$PROJECT_DIR$/002-CSS/01-tabelas.html" />
         <option value="$PROJECT_DIR$/002-CSS/tabela.css" />
         <option value="$PROJECT_DIR$/002-CSS/forms.css" />
-        <option value="$PROJECT_DIR$/002-CSS/form.html" />
         <option value="$PROJECT_DIR$/002-CSS/03-bs-Menu.html" />
         <option value="$PROJECT_DIR$/002-CSS/03-bs-inicial.html" />
         <option value="$PROJECT_DIR$/002-CSS/04-bs-tabela.html" />
+        <option value="$PROJECT_DIR$/002-CSS/form.html" />
+        <option value="$PROJECT_DIR$/002-CSS/01-tabelas.html" />
         <option value="$PROJECT_DIR$/002-CSS/05-bs-forms.html" />
       </list>
     </option>
@@ -152,42 +100,17 @@
     </treeState>
   </component>
   <component name="PhpWebServerValidation" path_to_validation_script="C:\Users\natan\Desktop\AtividadesWeb" selected_validation_type="LOCAL" web_path_to_validation_script="http://127.0.0.1/" />
-  <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="170" />
-    <option name="y" value="92" />
-    <option name="width" value="1026" />
-    <option name="height" value="554" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-7" />
+    <option name="width" value="697" />
+    <option name="height" value="745" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <flattenPackages ProjectPane="true" />
       <foldersAlwaysOnTop value="true" />
     </navigator>
-    <panes>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="AtividadesWeb" type="b2602c69:ProjectViewProjectNode" />
-              <item name="AtividadesWeb" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="AtividadesWeb" type="b2602c69:ProjectViewProjectNode" />
-              <item name="AtividadesWeb" type="462c0819:PsiDirectoryNode" />
-              <item name="001 - Atividades" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="AtividadesWeb" type="b2602c69:ProjectViewProjectNode" />
-              <item name="AtividadesWeb" type="462c0819:PsiDirectoryNode" />
-              <item name="002-CSS" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-    </panes>
+    <panes />
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
@@ -229,6 +152,23 @@
       </list>
     </option>
   </component>
+  <component name="RunManager" selected="JavaScript Debug.05-bs-forms.html">
+    <configuration name="01-tabelas.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Atividades Web/AtividadesWeb/002-CSS/01-tabelas.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="05-bs-forms.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Atividades Web/AtividadesWeb/002-CSS/05-bs-forms.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="form.html" type="JavascriptDebugType" nameIsGenerated="true" uri="http://localhost:63342/Atividades Web/002-CSS/form.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.05-bs-forms.html" />
+        <item itemvalue="JavaScript Debug.01-tabelas.html" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SQLPlugin.ProjectConfiguration">
     <queries />
   </component>
@@ -249,6 +189,10 @@
       <workItem from="1554915480933" duration="766000" />
       <workItem from="1554916315380" duration="954000" />
       <workItem from="1554917325487" duration="2334000" />
+      <workItem from="1555074676450" duration="750000" />
+      <workItem from="1555075447590" duration="108000" />
+      <workItem from="1555075862448" duration="180000" />
+      <workItem from="1555087749608" duration="1515000" />
     </task>
     <task id="LOCAL-00001" summary="atualizandoa arquivos das primeiras aulas">
       <created>1554310804691</created>
@@ -275,7 +219,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9829000" />
+    <option name="totallyTimeSpent" value="12382000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -290,7 +234,7 @@
     <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" x="780" y="-737" width="243" height="706" id="Project" order="0" type="WINDOWED" weight="0.26096824" />
+      <window_info content_ui="combo" x="651" y="352" width="136" height="39" id="Project" maximized="true" order="0" weight="0.2602118" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.24962178" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -300,15 +244,15 @@
       <window_info id="Learn" order="7" weight="0.32980332" />
       <window_info id="Colour Chooser" order="8" weight="0.32980332" />
       <window_info id="Maven" order="9" weight="0.32980332" />
-      <window_info id="Database" order="10" weight="0.32980332" />
+      <window_info id="Database" order="10" weight="0.3296131" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39159665" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32941177" />
-      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32850242" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" weight="0.32941177" />
       <window_info anchor="bottom" id="Version Control" order="9" weight="0.32941177" />
       <window_info anchor="bottom" id="SQL" order="10" weight="0.32941177" />
@@ -317,8 +261,7 @@
       <window_info anchor="bottom" id="Docker" order="13" show_stripe_button="false" />
       <window_info anchor="bottom" id="Graph Database Console" order="14" weight="0.32941177" />
       <window_info anchor="bottom" id="Mypy" order="15" weight="0.32941177" />
-      <window_info anchor="right" id="Remote Host" show_stripe_button="false" weight="0.32980332" />
-      <window_info anchor="right" id="Embedded Web Browser" show_stripe_button="false" weight="0.32980332" />
+      <window_info active="true" anchor="bottom" id="Command Line Tools Console" order="16" weight="0.32850242" />
       <window_info anchor="right" id="RestServices" order="0" weight="0.32980332" />
       <window_info anchor="right" id="PlantUML" order="1" weight="0.32980332" />
       <window_info anchor="right" id="Graph Database" order="2" weight="0.32980332" />
@@ -330,6 +273,8 @@
       <window_info anchor="right" id="Palette&#9;" order="8" />
       <window_info anchor="right" id="SciView" order="9" weight="0.329296" />
       <window_info anchor="right" id="Ant Build" order="10" weight="0.24962178" />
+      <window_info anchor="right" id="Remote Host" order="11" show_stripe_button="false" weight="0.32980332" />
+      <window_info anchor="right" id="Embedded Web Browser" order="12" show_stripe_button="false" weight="0.32980332" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -366,6 +311,20 @@
                 </list>
               </option>
             </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list />
+          </value>
+        </entry>
+        <entry key="User">
+          <value>
+            <list />
           </value>
         </entry>
       </map>
@@ -407,55 +366,55 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/002-CSS/01-tabelas.html">
+    <entry file="file://$PROJECT_DIR$/002-CSS/04-bs-tabela.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4104">
-          <caret line="171" selection-end-line="171" />
+        <state relative-caret-position="120">
+          <caret line="5" column="62" selection-start-line="5" selection-start-column="2" selection-end-line="5" selection-end-column="62" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/002-CSS/form.html">
+    <entry file="file://$PROJECT_DIR$/002-CSS/03-bs-inicial.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="11" column="6" selection-start-line="11" selection-start-column="6" selection-end-line="11" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/002-CSS/forms.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="12" column="1" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/002-CSS/tabela.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="432">
-          <caret line="18" column="16" selection-start-line="18" selection-start-column="16" selection-end-line="18" selection-end-column="16" />
+        <state relative-caret-position="253">
+          <caret line="22" selection-start-line="22" selection-end-line="22" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/002-CSS/bootstrap/css/bootstrap.css">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/002-CSS/03-bs-inicial.html">
+    <entry file="file://$PROJECT_DIR$/002-CSS/tabela.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="528">
-          <caret line="22" selection-start-line="22" selection-end-line="22" />
+        <state relative-caret-position="253">
+          <caret line="18" column="16" selection-start-line="18" selection-start-column="16" selection-end-line="18" selection-end-column="16" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/002-CSS/04-bs-tabela.html">
+    <entry file="file://$PROJECT_DIR$/002-CSS/forms.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="12" column="1" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/002-CSS/form.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="34" selection-start-line="13" selection-start-column="34" selection-end-line="13" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/002-CSS/01-tabelas.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
-          <caret line="5" column="62" lean-forward="true" selection-start-line="5" selection-start-column="2" selection-end-line="5" selection-end-column="62" />
+          <caret line="11" column="26" selection-start-line="11" selection-start-column="26" selection-end-line="11" selection-end-column="26" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/002-CSS/05-bs-forms.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="414">
-          <caret line="23" column="54" selection-start-line="23" selection-start-column="54" selection-end-line="23" selection-end-column="54" />
+        <state relative-caret-position="366">
+          <caret line="53" column="55" selection-start-line="53" selection-start-column="55" selection-end-line="53" selection-end-column="55" />
         </state>
       </provider>
     </entry>
