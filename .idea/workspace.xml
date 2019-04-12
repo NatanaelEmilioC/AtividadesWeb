@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="770c5f10-7a0c-40e6-af60-a461af2eb0b4" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/002-CSS/06-bs-grid.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -41,11 +42,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/002-CSS/05-bs-forms.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="208">
-              <caret line="30" lean-forward="true" selection-start-line="30" selection-end-line="30" />
+            <state relative-caret-position="290">
+              <caret line="59" selection-end-line="59" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/002-CSS/06-bs-grid.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="342">
+              <caret line="20" column="24" lean-forward="true" selection-start-line="20" selection-start-column="24" selection-end-line="20" selection-end-column="24" />
             </state>
           </provider>
         </entry>
@@ -90,6 +100,8 @@
         <option value="$PROJECT_DIR$/002-CSS/form.html" />
         <option value="$PROJECT_DIR$/002-CSS/01-tabelas.html" />
         <option value="$PROJECT_DIR$/002-CSS/05-bs-forms.html" />
+        <option value="$PROJECT_DIR$/002-CSS/bootstrap/06-bs-grid.html" />
+        <option value="$PROJECT_DIR$/002-CSS/06-bs-grid.html" />
       </list>
     </option>
   </component>
@@ -110,7 +122,32 @@
       <flattenPackages ProjectPane="true" />
       <foldersAlwaysOnTop value="true" />
     </navigator>
-    <panes />
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Atividades Web" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Atividades Web" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Atividades Web" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Atividades Web" type="462c0819:PsiDirectoryNode" />
+              <item name="002-CSS" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Atividades Web" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Atividades Web" type="462c0819:PsiDirectoryNode" />
+              <item name="002-CSS" type="462c0819:PsiDirectoryNode" />
+              <item name="bootstrap" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+    </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
@@ -130,6 +167,7 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\natan\Documents\MEGA\UFOP\7º periodo\CSI477 - SISTEMAS WEB I - Turma 11\Atividades Web\002-CSS" />
       <recent name="C:\Users\natan\Documents\GitHub\AtividadesWeb\002-CSS" />
       <recent name="C:\Users\natan\Documents\GitHub\AtividadesWeb" />
     </key>
@@ -152,11 +190,14 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.05-bs-forms.html">
+  <component name="RunManager" selected="JavaScript Debug.06-bs-grid.html">
     <configuration name="01-tabelas.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Atividades Web/AtividadesWeb/002-CSS/01-tabelas.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
     <configuration name="05-bs-forms.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Atividades Web/AtividadesWeb/002-CSS/05-bs-forms.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="06-bs-grid.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Atividades Web/AtividadesWeb/002-CSS/06-bs-grid.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
     <configuration name="form.html" type="JavascriptDebugType" nameIsGenerated="true" uri="http://localhost:63342/Atividades Web/002-CSS/form.html" useBuiltInWebServerPort="true">
@@ -164,6 +205,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JavaScript Debug.06-bs-grid.html" />
         <item itemvalue="JavaScript Debug.05-bs-forms.html" />
         <item itemvalue="JavaScript Debug.01-tabelas.html" />
       </list>
@@ -193,7 +235,7 @@
       <workItem from="1555075447590" duration="108000" />
       <workItem from="1555075862448" duration="180000" />
       <workItem from="1555087749608" duration="2058000" />
-      <workItem from="1555089899931" duration="233000" />
+      <workItem from="1555089899931" duration="2107000" />
     </task>
     <task id="LOCAL-00001" summary="atualizandoa arquivos das primeiras aulas">
       <created>1554310804691</created>
@@ -223,11 +265,18 @@
       <option name="project" value="LOCAL" />
       <updated>1555089408995</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="&quot;atualizando aula css 12/04&quot;">
+      <created>1555090360476</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1555090360476</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13290000" />
+    <option name="totallyTimeSpent" value="15032000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -239,10 +288,9 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="754" extended-state="7" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" x="651" y="352" width="136" height="39" id="Project" maximized="true" order="0" weight="0.2602118" />
+      <window_info content_ui="combo" x="651" y="352" width="136" height="39" id="Project" maximized="true" order="0" visible="true" weight="0.2602118" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.24962178" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -262,7 +310,7 @@
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32941177" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.32850242" />
       <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.50075644" side_tool="true" weight="0.32941177" />
-      <window_info active="true" anchor="bottom" id="Version Control" order="9" sideWeight="0.49924356" visible="true" weight="0.32941177" />
+      <window_info anchor="bottom" id="Version Control" order="9" sideWeight="0.49924356" weight="0.32941177" />
       <window_info anchor="bottom" id="SQL" order="10" weight="0.32941177" />
       <window_info anchor="bottom" id="Messages" order="11" weight="0.32941177" />
       <window_info anchor="bottom" id="Database Changes" order="12" />
@@ -422,8 +470,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/002-CSS/05-bs-forms.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="208">
-          <caret line="30" lean-forward="true" selection-start-line="30" selection-end-line="30" />
+        <state relative-caret-position="290">
+          <caret line="59" selection-end-line="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/002-CSS/06-bs-grid.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="20" column="24" lean-forward="true" selection-start-line="20" selection-start-column="24" selection-end-line="20" selection-end-column="24" />
         </state>
       </provider>
     </entry>
