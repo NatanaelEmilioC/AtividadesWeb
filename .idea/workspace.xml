@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="770c5f10-7a0c-40e6-af60-a461af2eb0b4" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/003 - script/01-introducao.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/editarOnline.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/002-CSS/08-bs-navbar.html" beforeDir="false" afterPath="$PROJECT_DIR$/002-CSS/08-bs-navbar.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -42,11 +43,29 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/002-CSS/08-bs-navbar.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
+            <state relative-caret-position="289">
               <caret line="17" column="43" selection-start-line="17" selection-start-column="43" selection-end-line="17" selection-end-column="43" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/001 - Atividades/01-introducao.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="340">
+              <caret line="20" column="25" selection-start-line="20" selection-start-column="25" selection-end-line="20" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/003 - script/01-introducao.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="148">
+              <caret line="14" column="62" selection-start-line="14" selection-start-column="62" selection-end-line="14" selection-end-column="62" />
             </state>
           </provider>
         </entry>
@@ -95,6 +114,8 @@
         <option value="$PROJECT_DIR$/002-CSS/06-bs-grid.html" />
         <option value="$PROJECT_DIR$/002-CSS/07-bs-nav.html" />
         <option value="$PROJECT_DIR$/002-CSS/08-bs-navbar.html" />
+        <option value="$PROJECT_DIR$/editarOnline.md" />
+        <option value="$PROJECT_DIR$/003 - script/01-introducao.html" />
       </list>
     </option>
   </component>
@@ -127,18 +148,7 @@
             <path>
               <item name="AtividadesWeb" type="b2602c69:ProjectViewProjectNode" />
               <item name="AtividadesWeb" type="462c0819:PsiDirectoryNode" />
-              <item name="001 - Atividades" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="AtividadesWeb" type="b2602c69:ProjectViewProjectNode" />
-              <item name="AtividadesWeb" type="462c0819:PsiDirectoryNode" />
-              <item name="002-CSS" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="AtividadesWeb" type="b2602c69:ProjectViewProjectNode" />
-              <item name="AtividadesWeb" type="462c0819:PsiDirectoryNode" />
-              <item name="002-CSS" type="462c0819:PsiDirectoryNode" />
-              <item name="bootstrap" type="462c0819:PsiDirectoryNode" />
+              <item name="003 - script" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -159,7 +169,7 @@
     <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../hospitalStock" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="settings.editor.selected.configurable" value="reference.settings.ide.settings.web.browsers" />
   </component>
@@ -188,11 +198,11 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.08-bs-navbar.html">
-    <configuration name="01-tabelas.html (1)" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/AtividadesWeb/002-CSS/01-tabelas.html" useBuiltInWebServerPort="true">
+  <component name="RunManager" selected="JavaScript Debug.01-introducao.html">
+    <configuration name="01-introducao.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/AtividadesWeb/003 - script/01-introducao.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
-    <configuration name="05-bs-forms.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Atividades Web/AtividadesWeb/002-CSS/05-bs-forms.html" useBuiltInWebServerPort="true">
+    <configuration name="01-tabelas.html (1)" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/AtividadesWeb/002-CSS/01-tabelas.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
     <configuration name="06-bs-grid.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Atividades Web/AtividadesWeb/002-CSS/06-bs-grid.html" useBuiltInWebServerPort="true">
@@ -209,19 +219,19 @@
     </configuration>
     <list>
       <item itemvalue="JavaScript Debug.form.html" />
-      <item itemvalue="JavaScript Debug.05-bs-forms.html" />
       <item itemvalue="JavaScript Debug.06-bs-grid.html" />
       <item itemvalue="JavaScript Debug.07-bs-nav.html" />
       <item itemvalue="JavaScript Debug.01-tabelas.html (1)" />
       <item itemvalue="JavaScript Debug.08-bs-navbar.html" />
+      <item itemvalue="JavaScript Debug.01-introducao.html" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JavaScript Debug.01-introducao.html" />
         <item itemvalue="JavaScript Debug.08-bs-navbar.html" />
         <item itemvalue="JavaScript Debug.07-bs-nav.html" />
         <item itemvalue="JavaScript Debug.01-tabelas.html (1)" />
         <item itemvalue="JavaScript Debug.06-bs-grid.html" />
-        <item itemvalue="JavaScript Debug.05-bs-forms.html" />
       </list>
     </recent_temporary>
   </component>
@@ -253,7 +263,9 @@
       <workItem from="1555786503893" duration="38000" />
       <workItem from="1556116118215" duration="599000" />
       <workItem from="1556116756686" duration="1538000" />
-      <workItem from="1556123570392" duration="2844000" />
+      <workItem from="1556123570392" duration="2875000" />
+      <workItem from="1556128335125" duration="948000" />
+      <workItem from="1556296474843" duration="927000" />
     </task>
     <task id="LOCAL-00001" summary="atualizandoa arquivos das primeiras aulas">
       <created>1554310804691</created>
@@ -297,11 +309,18 @@
       <option name="project" value="LOCAL" />
       <updated>1556117691275</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="&quot;atualizando aula css 24/04&quot;">
+      <created>1556127675378</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1556127675378</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="20051000" />
+    <option name="totallyTimeSpent" value="21957000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -316,7 +335,7 @@
     <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" x="651" y="352" width="136" height="39" id="Project" maximized="true" order="0" visible="true" weight="0.2677761" />
+      <window_info active="true" content_ui="combo" x="651" y="352" width="136" height="39" id="Project" maximized="true" order="0" visible="true" weight="0.2677761" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.24962178" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -330,7 +349,7 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49924356" weight="0.32850242" />
-      <window_info active="true" anchor="bottom" id="Debug" order="3" sideWeight="0.49924356" visible="true" weight="0.39130434" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49924356" weight="0.39130434" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32941177" />
@@ -419,7 +438,8 @@
     <MESSAGE value="&quot;atualizando aula css&quot;" />
     <MESSAGE value="&quot;atualizando aula css 12/04&quot;" />
     <MESSAGE value="&quot;atualizando aula css 17/04&quot;" />
-    <option name="LAST_COMMIT_MESSAGE" value="&quot;atualizando aula css 17/04&quot;" />
+    <MESSAGE value="&quot;atualizando aula css 24/04&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="&quot;atualizando aula css 24/04&quot;" />
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
@@ -427,13 +447,6 @@
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/README.md" />
-    <entry file="file://$PROJECT_DIR$/001 - Atividades/01-introducao.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="160">
-          <caret line="20" column="25" lean-forward="true" selection-start-line="20" selection-start-column="25" selection-end-line="20" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/001 - Atividades/cadastro.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="304">
@@ -519,8 +532,32 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/002-CSS/08-bs-navbar.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
+        <state relative-caret-position="289">
           <caret line="17" column="43" selection-start-line="17" selection-start-column="43" selection-end-line="17" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/001 - Atividades/01-introducao.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="25" selection-start-line="20" selection-start-column="25" selection-end-line="20" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/editarOnline.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor>
+            <caret column="18" lean-forward="true" selection-start-column="18" selection-end-column="18" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/003 - script/01-introducao.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="148">
+          <caret line="14" column="62" selection-start-line="14" selection-start-column="62" selection-end-line="14" selection-end-column="62" />
         </state>
       </provider>
     </entry>
