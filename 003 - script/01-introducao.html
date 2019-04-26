@@ -8,9 +8,10 @@
       <script>
           function exibitDados(){
 
-              document.getElementById("data").innerHTML = Date();
+              document.getElementById("data").innerHTML = "Hoje é " + Date();
 
               var nome = window.prompt("Insira o seu nome");
+              window.alert("Nome inserido com sucesso");
 
               document.getElementById("nome").innerHTML = nome;
           }
@@ -24,10 +25,13 @@
       document.write("Hello, world!");
     </script>
 
-    <p id="data">Data</p>
-    <p id="nome">Nome</p>
-
     <button type="button" onclick="exibitDados()">Exibir</button>
+
+
+    <div id="dados">
+      <p id="data">Data</p>
+      <p id="nome">Nome</p>
+    </div>
 
    <!--
    <script>
