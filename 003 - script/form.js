@@ -8,9 +8,9 @@ function validar(campo, alerta, label) {
 
     if(campo.value.length == 0 || isNaN(n)){
         //Erro
-        document.getElementById("alerta").style.display ="block";
+        document.getElementById(alerta).style.display ="block";
 
-        document.getElementById("label").classList.add("text-danger");
+        document.getElementById(label).classList.add("text-danger");
 
         campo.classList.add("is-invalid");
 
@@ -21,11 +21,11 @@ function validar(campo, alerta, label) {
     }
 
     //tudo correto
-    document.getElementById("alerta").style.display = "none";
+    document.getElementById(alerta).style.display = "none";
     campo.classList.remove("is-invalid");
     campo.classList.add("is-valid");
-    document.getElementById("label").classList.remove("text-danger");
-    document.getElementById("label").classList.add("text-success");
+    document.getElementById(label).classList.remove("text-danger");
+    document.getElementById(label).classList.add("text-success");
 
     return true;
 }
