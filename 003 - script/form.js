@@ -20,8 +20,8 @@ function calcular() {
     document.getElementById("alerta1").style.display = "block";
 
     if( document.dados.valor2.value.length == 0 || isNaN(n2)){
-        //window.alert("Preencha o valor corretamente!");
-        document.getElementById("alerta2").innerHTML = "Preencha o primeiro valor corretamente";
+        window.alert("Preencha o valor corretamente!");
+        //document.getElementById("alerta2").innerHTML = "Preencha o primeiro valor corretamente";
 
         document.dados.valor2.focus();
         document.dados.valor2.value = "";
