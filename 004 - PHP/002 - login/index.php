@@ -6,7 +6,8 @@
 </head>
 <body>
 
-<form>
+<!--<form method="get" action="validar.php">-->
+<form method="post" action="validar.php?acao=1">
 
     <label for="user">Usuário</label>
     <input type="text" name="usuario" value="" id="user">

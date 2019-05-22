@@ -2,16 +2,21 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="770c5f10-7a0c-40e6-af60-a461af2eb0b4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/004 - PHP/001 - Introducao_PHP/index.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/004 - PHP/001 - Introducao_PHP/info/info.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/004 - PHP/002 - login/index.php.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/004 - PHP/002 - login/validar.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/004 - PHP/003 - db/index.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/004 - PHP/002 - login/index.php.html" beforeDir="false" afterPath="$PROJECT_DIR$/004 - PHP/002 - login/index.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
   </component>
   <component name="CoverageViewManager">
     <option name="myElementSize" value="231" />
@@ -38,20 +43,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://C:/xampp/htdocs/aula/index.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="6" column="33" selection-start-line="6" selection-start-column="33" selection-end-line="6" selection-end-column="33" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/004 - PHP/002 - login/index.php.html">
+        <entry file="file://$PROJECT_DIR$/004 - PHP/003 - db/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="17" column="54" selection-start-line="17" selection-start-column="54" selection-end-line="17" selection-end-column="54" />
+            <state relative-caret-position="280">
+              <caret line="14" selection-start-line="14" selection-end-line="14" />
             </state>
           </provider>
         </entry>
@@ -120,6 +116,9 @@
         <option value="$PROJECT_DIR$/004 - PHP/001 - Introducao_PHP/info/info.php" />
         <option value="C:/xampp/htdocs/aula/index.php" />
         <option value="$PROJECT_DIR$/004 - PHP/002 - login/index.php.html" />
+        <option value="$PROJECT_DIR$/004 - PHP/002 - login/index.php" />
+        <option value="$PROJECT_DIR$/004 - PHP/002 - login/validar.php" />
+        <option value="$PROJECT_DIR$/004 - PHP/003 - db/index.php" />
       </list>
     </option>
   </component>
@@ -128,6 +127,9 @@
       <expand />
       <select />
     </treeState>
+  </component>
+  <component name="PhpServers">
+    <servers />
   </component>
   <component name="PhpWebServerValidation" path_to_validation_script="C:\Users\natan\Desktop\AtividadesWeb" selected_validation_type="LOCAL" web_path_to_validation_script="http://127.0.0.1/" />
   <component name="ProjectFrameBounds" extendedState="6">
@@ -142,6 +144,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -158,13 +161,24 @@
               <item name="AtividadesWeb" type="b2602c69:ProjectViewProjectNode" />
               <item name="AtividadesWeb" type="462c0819:PsiDirectoryNode" />
               <item name="004 - PHP" type="462c0819:PsiDirectoryNode" />
+              <item name="001 - Introducao_PHP" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AtividadesWeb" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AtividadesWeb" type="462c0819:PsiDirectoryNode" />
+              <item name="004 - PHP" type="462c0819:PsiDirectoryNode" />
               <item name="002 - login" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AtividadesWeb" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AtividadesWeb" type="462c0819:PsiDirectoryNode" />
+              <item name="004 - PHP" type="462c0819:PsiDirectoryNode" />
+              <item name="003 - db" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
     </panes>
   </component>
@@ -292,6 +306,8 @@
       <workItem from="1558016536711" duration="741000" />
       <workItem from="1558113221840" duration="2996000" />
       <workItem from="1558120073403" duration="171000" />
+      <workItem from="1558539374421" duration="407000" />
+      <workItem from="1558543186195" duration="5272000" />
     </task>
     <task id="LOCAL-00001" summary="atualizandoa arquivos das primeiras aulas">
       <created>1554310804691</created>
@@ -370,11 +386,18 @@
       <option name="project" value="LOCAL" />
       <updated>1556907359621</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="&quot;aula introdução php&quot;">
+      <created>1558539450343</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1558539450344</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="42035000" />
+    <option name="totallyTimeSpent" value="47714000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -387,9 +410,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" x="651" y="352" width="136" height="39" id="Project" maximized="true" order="0" visible="true" weight="0.29425114" />
+      <window_info content_ui="combo" x="651" y="352" width="136" height="39" id="Project" maximized="true" order="0" visible="true" weight="0.30332828" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.24962178" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -407,7 +429,7 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32941177" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32850242" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.32850242" />
       <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.5015129" side_tool="true" weight="0.3908228" />
       <window_info anchor="bottom" id="Version Control" order="9" sideWeight="0.49924356" weight="0.32850242" />
       <window_info anchor="bottom" id="SQL" order="10" weight="0.32850242" />
@@ -498,7 +520,8 @@
     <MESSAGE value="&quot;Atualizacao dos arquivos de aula&quot;" />
     <MESSAGE value="&quot;aula 03-05-2019 deu tudo errado&quot;" />
     <MESSAGE value="&quot;aula 03-05-2019&quot;" />
-    <option name="LAST_COMMIT_MESSAGE" value="&quot;aula 03-05-2019&quot;" />
+    <MESSAGE value="&quot;aula introdução php&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="&quot;aula introdução php&quot;" />
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
@@ -696,10 +719,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/004 - PHP/002 - login/index.php.html">
+    <entry file="file://$PROJECT_DIR$/004 - PHP/002 - login/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="17" column="54" selection-start-line="17" selection-start-column="54" selection-end-line="17" selection-end-column="54" />
+        <state relative-caret-position="-51">
+          <caret line="9" column="46" selection-start-line="9" selection-start-column="46" selection-end-line="9" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/004 - PHP/002 - login/validar.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-31">
+          <caret line="11" column="2" selection-start-line="11" selection-start-column="2" selection-end-line="11" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/004 - PHP/003 - db/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
         </state>
       </provider>
     </entry>
