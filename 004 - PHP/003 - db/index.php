@@ -1,17 +1,23 @@
 <?php
 
-//configuração
-$database = "";
+  // Configuração - DB
+  $database = "academico";
 
-$dbuser = "root";
-$dbpassword = "";
-$dbhost = "127.0.0.1";
-//function MongoConnect($username, $password, $database, $host) {
-//    $con = new Mongo("mongodb://{$username}:{$password}@{$host}"); // Connect to Mongo Server
-//    $db = $con->selectDB($database); // Connect to Database
-//}
-$strConn = "mysql:host=$dbhost;dbname=$database";
+  $dbuser = "sistemaweb";
+  $dbpassword = "123456";
+  $dbhost = "127.0.0.1";
 
-$connection = new PDO($strConn, $dbuser, $dbpassword);
+  // PGSQL -> $pdo = new PDO('pgsql:host=192.168.137.1;port=5432;dbname=anydb', 'anyuser', 'pw');
+  $strConn = "mysql:host=$dbhost;dbname=$database";
 
-var_dump($connection);
+  $connection = new PDO($strConn, $dbuser, $dbpassword);
+  //var_dump($connection);
+
+  // Controller -> Model
+  $estados = $connection->query("SELECT * FROM estados");
+
+  //var_dump($estados);
+
+  // View
+  // Controller -> invocar view - parâmetros
+  require 'view_estados.php'; // $estados

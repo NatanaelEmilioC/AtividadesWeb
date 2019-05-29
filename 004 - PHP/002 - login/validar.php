@@ -1,25 +1,24 @@
 <?php
 
-//$user = $_GET['usuario'];
-$user = $_POST['usuario'];
-//$password = $_GET['senha'];
-$password = $_POST['senha'];
+  $user = $_POST['usuario'];
+  $password = $_POST['senha'];
 
-//metodo para debugar durante desenvolvimento
-//echo "GET";
-//var_dump($_GET);
-//echo "POST";
-//var_dump($_POST);
+  // echo "POST";
+  // var_dump($_POST);
+  //
+  // echo "GET";
+  // var_dump($_GET);
 
-//conexao ou recuperação da conexão com BD
-//SUBMETER OS DADOS AO MODEL
+  // conexao ou recuperacao da conexao com DB
+  // Submeter os dados ao model
 
-//controller
-
-if($user == "admin" && $password == "123456"){
-    echo "<h1>Seja bem-vindo(a) $user!</h1>";
-    echo "<h1>Senha: $password!</h1>";
-}else{
+  // Controller
+  // Validar
+  if ( $user == "admin" && $password == "123456" ) {
+    echo "<h1>Seja bem-vinda(o) $user !</h1>";
+    echo "<p>Senha: $password</p>";
+  } else {
     echo "<h1>Usuário e/ou senha inválidos!</h1>";
-}
-echo "<a href=\"index.php\">Voltar</a>";
+  }
+
+  echo "<a href=\"index.php\">Voltar</a>";

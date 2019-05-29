@@ -1,6 +1,4 @@
 <?php
 
-$user = "Fernando";
-echo $user;
-
-?>
+  $user = "Fernando";
+  echo "Seja bem-vinda(o), $user !";
